@@ -3,7 +3,7 @@
 
 Where is this? [Video link](https://www.youtube.com/watch?v=fDGVF1fK1cA)
 
-Flag format: sdctf{latitude,longitude} using decimal degrees and 3 decimal places rounded toward zero (Ex. 4.1239 → 4.123, -4.0009 → -4.000)
+Flag format: sdctf{latitude,longitude} using decimal degrees and 3 decimal places rounded toward zero `(Ex. 4.1239 → 4.123, -4.0009 → -4.000)`
 
 
 Example: If the location was [this](https://goo.gl/maps/TnhzfxXKg9TDYDfR9), the flag would be sdctf{38.889,-77.035}

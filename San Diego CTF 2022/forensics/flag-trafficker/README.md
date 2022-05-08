@@ -4,6 +4,8 @@
 
 We've sniffed the traffic of somebody suspected to be looking up flags online! Unfortunately, just searching for the flag format in their traffic doesn't appear to be working...can you find the leaked flag?
 
+[Traffic](001.pcap)
+
 By KNOXDEV
 
 
@@ -16,7 +18,8 @@ I opened the file in WireShark and looked through the contents. Most of the cont
 I decided to check available files from HTTP, and there was something suspicious:
 ![scr2](Screenshots/scr2.png)
 
-I extract this [file](file.html) and opened it in the browser. Press the button and get the flag!
+I extracted this [file](file.html) and opened it in the browser. Press the button and get the flag!
+
 ![scr3](Screenshots/scr3.png)
 ![scr4](Screenshots/scr4.png)
 
